@@ -1,4 +1,4 @@
-update=22/05/2015 07:44:53
+update=Fre 19 Jan 2018 20:36:32 CET
 version=1
 last_client=kicad
 [general]
@@ -31,3 +31,4 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+LibName1=project-cache
