@@ -1,5 +1,7 @@
 # GRBL SKYCNC Adapter
 
+![GRBL SKYCNC Adapter](https://github.com/starshipfactory/grbl_skycnc_adapter/raw/master/project.png)
+
 Für unsere Skycnc Maschine wollen wir einen neue Zeitgemässe Steuerungseinheit implementieren. Hier kann die Arduino basierte Steuerungssoftware grbl eingesetzt werden.
 
 Für die nutzung von grbl mit der aktuell vorhandenen hardware sind folgende Schnittstellen auf einem interfaceboard zu designen:
