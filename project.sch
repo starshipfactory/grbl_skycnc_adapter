@@ -436,7 +436,7 @@ U 1 1 5A90DF57
 P 7150 1000
 F 0 "R1" V 6943 1000 50  0000 C CNN
 F 1 "10k" V 7034 1000 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 7080 1000 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.24x1.80mm_HandSolder" V 7080 1000 50  0001 C CNN
 F 3 "~" H 7150 1000 50  0001 C CNN
 	1    7150 1000
 	0    1    1    0   
@@ -447,7 +447,7 @@ U 1 1 5A90E182
 P 7150 1800
 F 0 "R2" V 6943 1800 50  0000 C CNN
 F 1 "10k" V 7034 1800 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 7080 1800 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.24x1.80mm_HandSolder" V 7080 1800 50  0001 C CNN
 F 3 "~" H 7150 1800 50  0001 C CNN
 	1    7150 1800
 	0    1    1    0   
@@ -458,7 +458,7 @@ U 1 1 5A90E1E8
 P 7150 2600
 F 0 "R3" V 6943 2600 50  0000 C CNN
 F 1 "10k" V 7034 2600 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 7080 2600 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder" V 7080 2600 50  0001 C CNN
 F 3 "~" H 7150 2600 50  0001 C CNN
 	1    7150 2600
 	0    1    1    0   
@@ -469,7 +469,7 @@ U 1 1 5A90E27A
 P 7150 3400
 F 0 "R4" V 6943 3400 50  0000 C CNN
 F 1 "10k" V 7034 3400 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 7080 3400 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.24x1.80mm_HandSolder" V 7080 3400 50  0001 C CNN
 F 3 "~" H 7150 3400 50  0001 C CNN
 	1    7150 3400
 	0    1    1    0   
@@ -480,7 +480,7 @@ U 1 1 5A90E2F0
 P 7150 4200
 F 0 "R5" V 6943 4200 50  0000 C CNN
 F 1 "10k" V 7034 4200 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 7080 4200 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder" V 7080 4200 50  0001 C CNN
 F 3 "~" H 7150 4200 50  0001 C CNN
 	1    7150 4200
 	0    1    1    0   
@@ -491,7 +491,7 @@ U 1 1 5A90E35C
 P 7150 5000
 F 0 "R6" V 6943 5000 50  0000 C CNN
 F 1 "10k" V 7034 5000 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 7080 5000 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder" V 7080 5000 50  0001 C CNN
 F 3 "~" H 7150 5000 50  0001 C CNN
 	1    7150 5000
 	0    1    1    0   
@@ -502,7 +502,7 @@ U 1 1 5A90E42E
 P 7150 5800
 F 0 "R7" V 6943 5800 50  0000 C CNN
 F 1 "10k" V 7034 5800 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 7080 5800 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder" V 7080 5800 50  0001 C CNN
 F 3 "~" H 7150 5800 50  0001 C CNN
 	1    7150 5800
 	0    1    1    0   
@@ -513,7 +513,7 @@ U 1 1 5A90E661
 P 10400 4150
 F 0 "J5" H 10480 4142 50  0000 L CNN
 F 1 "Conn_01x06" H 10480 4051 50  0000 L CNN
-F 2 "Connectors_Phoenix:PhoenixContact_MC-G_06x3.50mm_Angled" H 10400 4150 50  0001 C CNN
+F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_6-G-3.5_1x06_P3.50mm_Horizontal" H 10400 4150 50  0001 C CNN
 F 3 "~" H 10400 4150 50  0001 C CNN
 	1    10400 4150
 	1    0    0    -1  
@@ -524,7 +524,7 @@ U 1 1 5A90E89C
 P 10400 1000
 F 0 "J1" H 10480 992 50  0000 L CNN
 F 1 "Conn_01x04" H 10480 901 50  0000 L CNN
-F 2 "Connectors_Phoenix:PhoenixContact_MC-G_04x3.50mm_Angled" H 10400 1000 50  0001 C CNN
+F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal" H 10400 1000 50  0001 C CNN
 F 3 "~" H 10400 1000 50  0001 C CNN
 	1    10400 1000
 	1    0    0    -1  
@@ -535,7 +535,7 @@ U 1 1 5A90E92C
 P 10400 1600
 F 0 "J2" H 10480 1592 50  0000 L CNN
 F 1 "Conn_01x04" H 10480 1501 50  0000 L CNN
-F 2 "Connectors_Phoenix:PhoenixContact_MC-G_04x3.50mm_Angled" H 10400 1600 50  0001 C CNN
+F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal" H 10400 1600 50  0001 C CNN
 F 3 "~" H 10400 1600 50  0001 C CNN
 	1    10400 1600
 	1    0    0    -1  
@@ -546,7 +546,7 @@ U 1 1 5A90E984
 P 10400 2200
 F 0 "J3" H 10480 2192 50  0000 L CNN
 F 1 "Conn_01x04" H 10480 2101 50  0000 L CNN
-F 2 "Connectors_Phoenix:PhoenixContact_MC-G_04x3.50mm_Angled" H 10400 2200 50  0001 C CNN
+F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal" H 10400 2200 50  0001 C CNN
 F 3 "~" H 10400 2200 50  0001 C CNN
 	1    10400 2200
 	1    0    0    -1  
@@ -557,7 +557,7 @@ U 1 1 5A90E9EA
 P 10400 3250
 F 0 "J4" H 10480 3242 50  0000 L CNN
 F 1 "Conn_01x04" H 10480 3151 50  0000 L CNN
-F 2 "Connectors_Phoenix:PhoenixContact_MC-G_04x3.50mm_Angled" H 10400 3250 50  0001 C CNN
+F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal" H 10400 3250 50  0001 C CNN
 F 3 "~" H 10400 3250 50  0001 C CNN
 	1    10400 3250
 	1    0    0    -1  
@@ -591,7 +591,7 @@ U 1 1 5A9227B4
 P 7700 1000
 F 0 "Q1" H 7891 1046 50  0000 L CNN
 F 1 "BC848" H 7891 955 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23_Handsoldering" H 7900 925 50  0001 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 7900 925 50  0001 L CIN
 F 3 "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657" H 7700 1000 50  0001 L CNN
 	1    7700 1000
 	1    0    0    -1  
@@ -602,7 +602,7 @@ U 1 1 5A922ACD
 P 7700 1800
 F 0 "Q2" H 7891 1846 50  0000 L CNN
 F 1 "BC848" H 7891 1755 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23_Handsoldering" H 7900 1725 50  0001 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 7900 1725 50  0001 L CIN
 F 3 "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657" H 7700 1800 50  0001 L CNN
 	1    7700 1800
 	1    0    0    -1  
@@ -613,7 +613,7 @@ U 1 1 5A922B27
 P 7700 2600
 F 0 "Q3" H 7891 2646 50  0000 L CNN
 F 1 "BC848" H 7891 2555 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23_Handsoldering" H 7900 2525 50  0001 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 7900 2525 50  0001 L CIN
 F 3 "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657" H 7700 2600 50  0001 L CNN
 	1    7700 2600
 	1    0    0    -1  
@@ -624,7 +624,7 @@ U 1 1 5A922B75
 P 7700 3400
 F 0 "Q4" H 7891 3446 50  0000 L CNN
 F 1 "BC848" H 7891 3355 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23_Handsoldering" H 7900 3325 50  0001 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 7900 3325 50  0001 L CIN
 F 3 "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657" H 7700 3400 50  0001 L CNN
 	1    7700 3400
 	1    0    0    -1  
@@ -635,7 +635,7 @@ U 1 1 5A922C13
 P 7700 4200
 F 0 "Q5" H 7891 4246 50  0000 L CNN
 F 1 "BC848" H 7891 4155 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23_Handsoldering" H 7900 4125 50  0001 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 7900 4125 50  0001 L CIN
 F 3 "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657" H 7700 4200 50  0001 L CNN
 	1    7700 4200
 	1    0    0    -1  
@@ -646,7 +646,7 @@ U 1 1 5A922C6D
 P 7700 5000
 F 0 "Q6" H 7891 5046 50  0000 L CNN
 F 1 "BC848" H 7891 4955 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23_Handsoldering" H 7900 4925 50  0001 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 7900 4925 50  0001 L CIN
 F 3 "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657" H 7700 5000 50  0001 L CNN
 	1    7700 5000
 	1    0    0    -1  
@@ -657,7 +657,7 @@ U 1 1 5A922CC3
 P 7700 5800
 F 0 "Q7" H 7891 5846 50  0000 L CNN
 F 1 "BC848" H 7891 5755 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23_Handsoldering" H 7900 5725 50  0001 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 7900 5725 50  0001 L CIN
 F 3 "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657" H 7700 5800 50  0001 L CNN
 	1    7700 5800
 	1    0    0    -1  
@@ -668,7 +668,7 @@ U 1 1 5A922F2E
 P 5200 3600
 F 0 "R8" H 5130 3554 50  0000 R CNN
 F 1 "47k" H 5130 3645 50  0000 R CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 5130 3600 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.24x1.80mm_HandSolder" V 5130 3600 50  0001 C CNN
 F 3 "~" H 5200 3600 50  0001 C CNN
 	1    5200 3600
 	-1   0    0    1   
@@ -707,7 +707,7 @@ U 1 1 5A93B738
 P 10400 5100
 F 0 "J6" H 10480 5092 50  0000 L CNN
 F 1 "Conn_01x04" H 10480 5001 50  0000 L CNN
-F 2 "Connectors_Phoenix:PhoenixContact_MC-G_04x3.50mm_Angled" H 10400 5100 50  0001 C CNN
+F 2 "Connector_Phoenix_MC:PhoenixContact_MC_1,5_4-G-3.5_1x04_P3.50mm_Horizontal" H 10400 5100 50  0001 C CNN
 F 3 "~" H 10400 5100 50  0001 C CNN
 	1    10400 5100
 	1    0    0    -1  
@@ -746,7 +746,7 @@ U 1 1 5A963576
 P 2000 2100
 F 0 "A1" H 2000 1014 50  0000 C CNN
 F 1 "Arduino_Nano_v3.x" H 2000 923 50  0000 C CNN
-F 2 "Modules:Arduino_Nano_WithMountingHoles" H 2150 1150 50  0001 L CNN
+F 2 "Module:Arduino_Nano_WithMountingHoles" H 2150 1150 50  0001 L CNN
 F 3 "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf" H 2000 1100 50  0001 C CNN
 	1    2000 2100
 	1    0    0    -1  
@@ -786,7 +786,7 @@ U 1 1 5A97561E
 P 1000 6550
 F 0 "J9" H 1050 7667 50  0000 C CNN
 F 1 "Conn_02x20_Odd_Even" H 1050 7576 50  0000 C CNN
-F 2 "" H 1000 6550 50  0001 C CNN
+F 2 "grbl_skycnc_adapter:pi-gpio" H 1000 6550 50  0001 C CNN
 F 3 "~" H 1000 6550 50  0001 C CNN
 	1    1000 6550
 	1    0    0    -1  
@@ -796,7 +796,7 @@ Text Label 1300 5650 0    50   ~ 0
 Text Label 1300 5750 0    50   ~ 0
 +5V
 Text Label 1300 5850 0    50   ~ 0
-GND
+Earth
 Text Label 1300 5950 0    50   ~ 0
 TXD
 Text Label 1300 6050 0    50   ~ 0
@@ -808,23 +808,12 @@ ID_SC
 Text Label 800  6950 2    50   ~ 0
 ID_SD
 $Comp
-L Transistor_FET:BSS138 Q8
-U 1 1 5A97A42B
-P 2750 5700
-F 0 "Q8" H 2955 5746 50  0000 L CNN
-F 1 "BSS138" H 2955 5655 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 2950 5625 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" H 2750 5700 50  0001 L CNN
-	1    2750 5700
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R R9
 U 1 1 5A97A5C4
 P 2300 5450
 F 0 "R9" V 2093 5450 50  0000 C CNN
 F 1 "10k" V 2184 5450 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.84x1.00mm_HandSolder" V 2230 5450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder" V 2230 5450 50  0001 C CNN
 F 3 "~" H 2300 5450 50  0001 C CNN
 	1    2300 5450
 	0    1    1    0   
@@ -835,7 +824,7 @@ U 1 1 5A97A74E
 P 2300 6000
 F 0 "R10" V 2093 6000 50  0000 C CNN
 F 1 "10k" V 2184 6000 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.84x1.00mm_HandSolder" V 2230 6000 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder" V 2230 6000 50  0001 C CNN
 F 3 "~" H 2300 6000 50  0001 C CNN
 	1    2300 6000
 	0    1    1    0   
@@ -888,23 +877,12 @@ Wire Wire Line
 	2850 5250 2950 5250
 Connection ~ 2850 5450
 $Comp
-L Transistor_FET:BSS138 Q9
-U 1 1 5A9BDE1F
-P 2750 7000
-F 0 "Q9" H 2955 7046 50  0000 L CNN
-F 1 "BSS138" H 2955 6955 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 2950 6925 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" H 2750 7000 50  0001 L CNN
-	1    2750 7000
-	1    0    0    -1  
-$EndComp
-$Comp
 L Device:R R11
 U 1 1 5A9BDE26
 P 2300 6750
 F 0 "R11" V 2093 6750 50  0000 C CNN
 F 1 "10k" V 2184 6750 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.84x1.00mm_HandSolder" V 2230 6750 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder" V 2230 6750 50  0001 C CNN
 F 3 "~" H 2300 6750 50  0001 C CNN
 	1    2300 6750
 	0    1    1    0   
@@ -915,7 +893,7 @@ U 1 1 5A9BDE2D
 P 2300 7300
 F 0 "R12" V 2093 7300 50  0000 C CNN
 F 1 "10k" V 2184 7300 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.84x1.00mm_HandSolder" V 2230 7300 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder" V 2230 7300 50  0001 C CNN
 F 3 "~" H 2300 7300 50  0001 C CNN
 	1    2300 7300
 	0    1    1    0   
@@ -961,7 +939,7 @@ U 1 1 5A9CC39F
 P 5250 1100
 F 0 "R13" H 5320 1146 50  0000 L CNN
 F 1 "220" H 5320 1055 50  0000 L CNN
-F 2 "Diode_SMD:D_0603_1608Metric_Pad0.67x1.00mm_HandSolder" V 5180 1100 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.84x1.00mm_HandSolder" V 5180 1100 50  0001 C CNN
 F 3 "~" H 5250 1100 50  0001 C CNN
 	1    5250 1100
 	1    0    0    -1  
@@ -972,7 +950,7 @@ U 1 1 5A9CC4C2
 P 5250 1500
 F 0 "D1" V 5288 1383 50  0000 R CNN
 F 1 "LED" V 5197 1383 50  0000 R CNN
-F 2 "Diode_SMD:D_0805_2012Metric_Pad0.97x1.50mm_HandSolder" H 5250 1500 50  0001 C CNN
+F 2 "Diode_SMD:D_0603_1608Metric_Pad0.67x1.00mm_HandSolder" H 5250 1500 50  0001 C CNN
 F 3 "~" H 5250 1500 50  0001 C CNN
 	1    5250 1500
 	0    -1   -1   0   
@@ -1033,7 +1011,7 @@ Wire Notes Line
 Wire Notes Line
 	4400 550  4400 6150
 Text GLabel 5400 2200 0    59   Input ~ 0
-GND
+Earth
 Text GLabel 5400 2100 0    59   Input ~ 0
 +5V
 Wire Wire Line
@@ -1044,4 +1022,32 @@ Wire Notes Line
 	4400 1950 6150 1950
 Wire Notes Line
 	6150 2150 8700 2150
+Text Label 5800 4900 2    59   ~ 0
+PWR_NP
+Text GLabel 5200 4900 0    59   Input ~ 0
++5V
+Wire Wire Line
+	5200 4900 5800 4900
+$Comp
+L Transistor_FET:2N7002 Q8
+U 1 1 5A9AC13F
+P 2750 5700
+F 0 "Q8" H 2955 5746 50  0000 L CNN
+F 1 "2N7002" H 2955 5655 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 2950 5625 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 2750 5700 50  0001 L CNN
+	1    2750 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7002 Q9
+U 1 1 5A9AC442
+P 2750 7000
+F 0 "Q9" H 2955 7046 50  0000 L CNN
+F 1 "2N7002" H 2955 6955 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" H 2950 6925 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 2750 7000 50  0001 L CNN
+	1    2750 7000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
